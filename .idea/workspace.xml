@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22d90930-ba68-490a-b5eb-b9f53e2dd378" name="Default Changelist" comment="ui">
+      <change beforePath="$PROJECT_DIR$/Front-End/lib/UI/Notification/enums/icon_enum.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/lib/UI/Notification/enums/icon_enum.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-End/lib/Utillity/routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/lib/Utillity/routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-End/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-End/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Front-End/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Front-End" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Front-End" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/AbuBakarPial/Med-Easy/" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o11SYhdqGLAjC2vi6MsgvVvG2t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Front-End/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d90930-ba68-490a-b5eb-b9f53e2dd378" name="Default Changelist" comment="" />
+      <created>1612439282426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612439282426</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ui">
+      <created>1622226265871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622226265871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="ui" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="215" y="6" key="#Project_Structure" timestamp="1622461263244">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="215" y="6" key="#Project_Structure/0.0.1469.864@0.0.1469.864" timestamp="1622461263244" />
+    <state x="190" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622458800592">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="190" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1469.864@0.0.1469.864" timestamp="1622458800592" />
+    <state x="194" y="280" key="FileChooserDialogImpl" timestamp="1622458736467">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="194" y="280" key="FileChooserDialogImpl/0.0.1469.864@0.0.1469.864" timestamp="1622458736467" />
+    <state x="244" y="77" key="SettingsEditor" timestamp="1622458740621">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="244" y="77" key="SettingsEditor/0.0.1469.864@0.0.1469.864" timestamp="1622458740621" />
+    <state x="327" y="161" key="Vcs.Push.Dialog.v2" timestamp="1622461360123">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="327" y="161" key="Vcs.Push.Dialog.v2/0.0.1469.864@0.0.1469.864" timestamp="1622461360123" />
+    <state x="100" y="100" width="1269" height="664" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1622461263665">
+      <screen x="0" y="0" width="1469" height="864" />
+    </state>
+    <state x="100" y="100" width="1269" height="664" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1469.864@0.0.1469.864" timestamp="1622461263665" />
+  </component>
+</project>
